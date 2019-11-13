@@ -1,6 +1,6 @@
 {
   "name": "funny-commit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Funny initial git commit messages",
   "main": "./src/index.js",
   "scripts": {
