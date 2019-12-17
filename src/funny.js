@@ -19,7 +19,7 @@ const funnyVersion = () => console.log(`v${version}`);
 const funnyCommit = () => {
   const index = Math.floor(Math.random() * messages.length);
   const message = messages[index];
-  console.log(`\x1b[34m${message}\x1b[89m`);
+  console.log(message);
 }
 
 module.exports = {
