@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-const { funnyCommit } = require('../src/index.js');
+const start = require('../src/index.js');
 
-funnyCommit();
+start();
