@@ -11,10 +11,15 @@ const messages = [
   "Reinventing the wheel. Again.",
   "This is not the commit message you are looking for",
   "Batman! (this commit has no parents)",
+  "What was I thinking at this moment?",
+  "Yep, this is my first commit commit, not kidding",
+  "Trust me, I'm an engineer",
+  "I was only trying to exit vim"
 ];
 
 const funnyCommit = () => {
-  const message = messages[Math.floor(Math.random() * messages.length)];
+  const index = Math.floor(Math.random() * messages.length);
+  const message = messages[index];
   console.log(`\x1b[34m${message}\x1b[89m`);
 }
 
