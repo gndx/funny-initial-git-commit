@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-let random = require('../src/index.js');
+const start = require('../src/index.js');
 
-random.funnyCommit();
+start();
