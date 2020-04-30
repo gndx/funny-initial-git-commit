@@ -1,3 +1,4 @@
+
 const messages = [
   "This is where it all begins...",
   "Commit committed",
@@ -11,6 +12,7 @@ const messages = [
   "Reinventing the wheel. Again.",
   "This is not the commit message you are looking for",
   "Batman! (this commit has no parents)",
+  "typical programmer phrase how weird yesterday it worked"
 ];
 
 const funnyCommit = () => {
