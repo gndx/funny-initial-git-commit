@@ -11,6 +11,7 @@ const messages = [
   "Reinventing the wheel. Again.",
   "This is not the commit message you are looking for",
   "Batman! (this commit has no parents)",
+  "Passwords are like underwear. You cannot let anyone see it, you must change it regularly and you must not share it with strangers.",
 ];
 
 const funnyCommit = () => {
