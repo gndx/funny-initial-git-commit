@@ -11,7 +11,7 @@ const messages = [
   "Reinventing the wheel. Again.",
   "This is not the commit message you are looking for",
   "Batman! (this commit has no parents)",
-  "https://github.com/andres1234loa/funny-initial-git-commit.git",
+  "hopefully an application that automatically responds to your WhatsApp groups every 12 minutes hahahaha",
 ];
 
 const funnyCommit = () => {
