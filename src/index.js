@@ -1,4 +1,5 @@
 const messages = [
+  "in case of fire: git commit, git push and leave building",
   "This is where it all begins...",
   "Commit committed",
   "Version control is awful",
@@ -12,6 +13,8 @@ const messages = [
   "This is not the commit message you are looking for",
   "Batman! (this commit has no parents)",
   "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live",
+  "naruto, The programmer ninja!",
+  "The covid-19 block my commit",
 ];
 
 const funnyCommit = () => {
