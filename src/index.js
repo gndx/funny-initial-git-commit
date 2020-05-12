@@ -11,6 +11,7 @@ const messages = [
   "Reinventing the wheel. Again.",
   "This is not the commit message you are looking for",
   "Batman! (this commit has no parents)",
+  "my code is working. Let me refactor it. 258 bugs found",
 ];
 
 const funnyCommit = () => {
