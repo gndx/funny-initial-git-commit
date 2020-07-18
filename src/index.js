@@ -13,7 +13,8 @@ const messages = [
   "Batman! (this commit has no parents)",
   "naruto, The programmer ninja!",
   "The covid-19 block my commit",
-  "The started to learn with git-github "
+  "The started to learn with git-github",
+  "all commits are false "
 ];
 
 const funnyCommit = () => {
