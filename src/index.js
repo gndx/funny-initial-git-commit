@@ -16,6 +16,14 @@ const messages = [
   "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live",
   "naruto, The programmer ninja!",
   "The covid-19 block my commit",
+  "Proceed with caution",
+  "A wise man once committed this code",
+  "Too lazy to think of a message",
+  "The meaning of all code: 42",
+  "Warning, I don't even know what I committed",
+  "This code is so secret, even I don't know what it does",
+  "My code is so good even I don't know what it does",
+  "BUGS! BUGS EVERYWHERE!"
 ];
 
 const funnyCommit = () => {
